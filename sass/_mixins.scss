@@ -11,7 +11,7 @@
         size: contain;
     };
 
-    @media (min-width: 1440px){
+    @media (min-width: 1240px){
         width: 450px;
         height: 247px;
         padding: 30px;
@@ -23,7 +23,7 @@
     top: $m-top;
     left: $m-left; 
 
-    @media (min-width: 1440px){
+    @media (min-width: 1240px){
         top: $d-top;
         left: $d-left;
     }

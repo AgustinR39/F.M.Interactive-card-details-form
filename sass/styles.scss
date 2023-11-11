@@ -17,8 +17,8 @@
         padding: 90px 24px 45px;
     }
 
-    @media (min-width: 1440px) {
-        width: 1440px;
+    @media (min-width: 1240px) {
+        width: 1240px;
         display: flex;
 
         &__background-section {
@@ -51,7 +51,7 @@
         text-transform: uppercase;
     }
 
-    @media (min-width: 1440px) {
+    @media (min-width: 1240px) {
         &__logo {
             width: 86px;
             margin-bottom: 55px;
@@ -79,7 +79,7 @@
         text-align: right;
         padding-right: 10px;
 
-        @media (min-width: 1440px) {
+        @media (min-width: 1240px) {
             font-size: 1em;
             margin-top: 80px;
             padding-right: 30px;
@@ -142,7 +142,7 @@
         }
     }
 
-    @media (min-width: 1440px) {
+    @media (min-width: 1240px) {
         margin-top: 180px;
         width: 385px;
 
@@ -200,7 +200,7 @@
         @extend .form__submit;
     }
 
-    @media (min-width: 1440px) {
+    @media (min-width: 1240px) {
         margin-top: 180px;
     }
 }
